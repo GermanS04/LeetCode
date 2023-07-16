@@ -1,3 +1,9 @@
+// Transpose Matrix
+// Difficulty: Easy
+// https://leetcode.com/problems/transpose-matrix/
+// Runtime: 16 ms (Beats 41.11%)
+// Memory Usage: 10.6 MB (Beats 27.06%)
+
 class Solution {
 public:
     vector<vector<int>> transpose(vector<vector<int>>& matrix) {

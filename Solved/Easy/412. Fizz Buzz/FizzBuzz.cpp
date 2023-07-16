@@ -1,3 +1,9 @@
+// Fizz Buzz
+// Difficulty: Easy
+// https://leetcode.com/problems/fizz-buzz/
+// Runtime: 4 ms (Beats 63.23%)
+// Memory Usage: 7.9 MB (Beats 62.97%)
+
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
