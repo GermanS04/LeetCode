@@ -1,3 +1,9 @@
+// Linked List Cycle
+// Difficulty : Easy
+// https://leetcode.com/problems/linked-list-cycle/
+// Runtime: 7 ms (beats 88.20%)
+// Memory Usage : 8.4 MB (beats 29.12%)
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
