@@ -1,8 +1,8 @@
 // 4. Median of Two Sorted Arrays
 // Difficulty : Hard
 // https://leetcode.com/problems/median-of-two-sorted-arrays/
-// Runtime: 23 ms (Beats 74.87%)
-// Memory: 90 MB (Beats 46.22%)
+// Runtime: 15 ms (Beats 96.45%)
+// Memory: 89.96 MB (Beats 46.23%)
 
 class Solution {
 public:
